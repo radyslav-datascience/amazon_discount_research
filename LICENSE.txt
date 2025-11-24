@@ -1,0 +1,101 @@
+PROPRIETARY LICENSE
+
+Copyright (c) 2026 Radyslav Lomanov. All Rights Reserved.
+
+================================================================================
+
+This project and all associated methodologies, code, documentation, and
+materials are the exclusive intellectual property of Radyslav Lomanov.
+
+RESTRICTIONS:
+
+1. No part of this project may be reproduced, distributed, or transmitted
+   in any form or by any means without prior written permission from the author.
+
+2. Commercial use, modification, or creation of derivative works are strictly
+   prohibited without explicit written authorization from the copyright holder.
+
+3. This project is provided for viewing and educational purposes only as part
+   of the author's professional portfolio.
+
+4. Any use of the methodologies, algorithms, or code contained herein requires
+   explicit permission from the author.
+
+PERMITTED USE:
+
+- Viewing the project as part of evaluating the author's professional skills
+- Referencing the project in the context of the author's portfolio review
+- Academic study and learning (non-commercial purposes only)
+
+TO REQUEST PERMISSION:
+
+For collaboration inquiries, licensing arrangements, or permission requests,
+please contact the author directly:
+
+- Email: lomanov.mail@gmail.com
+- Phone: +380950359405
+- Telegram: https://t.me/radyslav_datascience
+- LinkedIn: https://linktr.ee/radyslav.datascience
+
+DISCLAIMER:
+
+THIS PROJECT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+USE OF THIS PROJECT.
+
+================================================================================
+
+ЛІЦЕНЗІЯ НА ІНТЕЛЕКТУАЛЬНУ ВЛАСНІСТЬ
+
+Авторське право © 2025 Радислав Ломанов. Всі права захищені.
+
+================================================================================
+
+Цей проект та всі пов'язані методології, код, документація та матеріали
+є виключною інтелектуальною власністю Радислава Ломанова.
+
+ОБМЕЖЕННЯ:
+
+1. Жодна частина цього проекту не може бути відтворена, поширена або передана
+   в будь-якій формі чи будь-якими засобами без попереднього письмового
+   дозволу автора.
+
+2. Комерційне використання, модифікація або створення похідних робіт суворо
+   заборонені без явного письмового дозволу власника авторських прав.
+
+3. Цей проект надається лише для перегляду та освітніх цілей як частина
+   професійного портфоліо автора.
+
+4. Будь-яке використання методологій, алгоритмів або коду, що містяться тут,
+   вимагає явного дозволу автора.
+
+ДОЗВОЛЕНЕ ВИКОРИСТАННЯ:
+
+- Перегляд проекту в рамках оцінки професійних навичок автора
+- Посилання на проект у контексті огляду портфоліо автора
+- Академічне вивчення та навчання (лише для некомерційних цілей)
+
+ДЛЯ ЗАПИТУ ДОЗВОЛУ:
+
+Для питань співпраці, ліцензування або запитів на дозвіл, будь ласка,
+зв'яжіться з автором напряму:
+
+- Email: lomanov.mail@gmail.com
+- Телефон: +380950359405
+- Telegram: https://t.me/radyslav_datascience
+- LinkedIn: https://linktr.ee/radyslav.datascience
+
+ВІДМОВА ВІД ВІДПОВІДАЛЬНОСТІ:
+
+ЦЕЙ ПРОЕКТ НАДАЄТЬСЯ "ЯК Є", БЕЗ ГАРАНТІЙ БУДЬ-ЯКОГО ВИДУ, ЯВНИХ ЧИ
+НЕЯВНИХ, ВКЛЮЧАЮЧИ, АЛЕ НЕ ОБМЕЖУЮЧИСЬ ГАРАНТІЯМИ ТОВАРНОЇ ПРИДАТНОСТІ,
+ПРИДАТНОСТІ ДЛЯ КОНКРЕТНОЇ МЕТИ ТА НЕНАРУШЕННЯ ПРАВ. АВТОР НЕ НЕСЕ
+ВІДПОВІДАЛЬНОСТІ ЗА БУДЬ-ЯКІ ПРЕТЕНЗІЇ, ЗБИТКИ АБО ІНШУ ВІДПОВІДАЛЬНІСТЬ,
+ЩО ВИНИКАЄ ВНАСЛІДОК ВИКОРИСТАННЯ ЦЬОГО ПРОЕКТУ.
+
+================================================================================
+
+Last Updated: November 24, 2025
+Останнє оновлення: 24 листопада 2025

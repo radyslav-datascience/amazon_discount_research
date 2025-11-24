@@ -1,0 +1,109 @@
+======================================================================================
+DATA SCIENCE METHODS & REFERENCES
+======================================================================================
+
+This project utilizes advanced data science methodologies documented in the
+author's comprehensive knowledge base.
+
+======================================================================================
+PRIMARY REFERENCE
+======================================================================================
+
+Radyslav Lomanov's Data Science Methods (Notion):
+https://tr.ee/radyslav-datascience-notion
+
+This knowledge base contains detailed explanations of methodologies, algorithms,
+and best practices used in this project.
+
+======================================================================================
+TOPICS COVERED
+======================================================================================
+
+The following topics from the knowledge base are applied in this project:
+
+1. Polynomial Regression
+   - 3rd order polynomial modeling
+   - Feature engineering for e-commerce
+   - Non-linear relationship modeling
+
+2. Optimization Algorithms
+   - scipy.optimize.minimize_scalar
+   - Bounded optimization techniques
+   - Multi-method optimization approaches
+
+3. KPI Engineering for E-commerce
+   - Custom metric design
+   - Amazon marketplace analytics
+   - Conversion rate optimization
+   - Unit economics integration
+
+4. Statistical Validation
+   - MAPE (Mean Absolute Percentage Error)
+   - RMSE (Root Mean Square Error)
+   - R² (Coefficient of Determination)
+   - Model quality assessment
+
+5. Amazon Marketplace Analytics
+   - Business Reports data processing
+   - FBA (Fulfillment by Amazon) economics
+   - Sessions, Orders, Sales analysis
+   - Pricing strategy optimization
+
+6. Data Engineering
+   - ETL pipelines
+   - Data aggregation techniques
+   - Multi-source data integration
+
+7. Business Analytics
+   - Discount optimization
+   - Profit maximization
+   - Cross-sell analysis
+   - Traffic attribution modeling
+
+======================================================================================
+ADDITIONAL RESOURCES
+======================================================================================
+
+Portfolio Website:
+https://tr.ee/radyslav-portfolio-en
+
+All Links (Linktree):
+https://linktr.ee/radyslav.datascience
+
+GitHub Profile:
+https://github.com/radyslav-datascience
+
+Project Repository:
+https://github.com/radyslav-datascience/amazon_discount_research
+
+======================================================================================
+ACADEMIC & PROFESSIONAL BACKGROUND
+======================================================================================
+
+For detailed methodology explanations, theoretical foundations, and practical
+applications, please visit the Notion documentation linked above.
+
+The methodologies presented in this project are based on:
+- Industry best practices in e-commerce analytics
+- Academic research in optimization theory
+- Real-world experience with Amazon marketplace data
+- Proven statistical and machine learning techniques
+
+======================================================================================
+CONTACT FOR METHODOLOGY QUESTIONS
+======================================================================================
+
+Author: Radyslav Lomanov
+Role: Data Scientist | Business Analyst | E-commerce Analytics Specialist
+
+Email: lomanov.mail@gmail.com
+Phone: +380950359405
+Telegram: https://t.me/radyslav_datascience
+
+For questions about specific methodologies, collaboration opportunities, or
+detailed explanations of the techniques used in this project, please reach out
+directly via any of the contact methods above.
+
+======================================================================================
+
+Last Updated: November 24, 2025
